@@ -1,0 +1,16 @@
+# ignore all
+
+*
+
+# upload list
+
+!.
+!pages/
+!public/
+!styles/
+!app.json
+!Dockerfile
+!next.config.js
+!package-lock.json
+!package.json
+!yarn.lock
